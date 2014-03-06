@@ -69,6 +69,7 @@ public class Factura {
 		
 		// Escribir la factura
 		System.out.println( factura1 );
+		System.out.println("esto es una prueba para el repositorio github");
 		
 	}	
 	
